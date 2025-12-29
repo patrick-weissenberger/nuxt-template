@@ -1,8 +1,7 @@
 <template>
-    <h1>Index</h1>
-    <UColorModeSelect />
+    <div class="h-dvh flex justify-center items-center">
+        <p>Hello, world!</p>
+    </div>
 </template>
 
-<script lang="ts" setup>
-
-</script>
+<script setup lang="ts"></script>
